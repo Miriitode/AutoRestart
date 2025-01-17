@@ -30,7 +30,7 @@ Configure the mod's settings in `Muse Dash/UserData/MelonPreferences.cfg`.
 
 ## Acknowledgements
 
-This is my first time creating a mod for Muse Dash (and it's honestly been a while since I've used C#), so I took inspiration from the following repos:
+This is my first time creating a mod for Muse Dash (and it's honestly been a while since I've used C#), so I took inspiration from the following mods:
 
 - Ashton's [QuickRestart mod](https://github.com/MDMods/QuickRestart)
 - Flustix's [AccDisplay mod](https://github.com/flustix/AccDisplay) and [Playlists mod](https://github.com/MDMods/Playlists)
