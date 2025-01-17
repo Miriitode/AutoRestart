@@ -9,7 +9,7 @@ AutoRestart can be configured to automatically restart your gameplay from two co
 2. When FULL COMBO is lost (ie. misses, damage taken from enemies, missed blue notes / hearts)
 
 Toggle AutoRestart by pressing the `backspace` key, and toggle between AP and FC modes by pressing the `delete` key.
-(These keybinds can be configured. See [Configuration](#Configuration)
+(These keybinds can be configured. See [Configuration](#Configuration)).
 
 ## Installation
 
