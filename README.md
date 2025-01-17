@@ -14,7 +14,7 @@ Toggle AutoRestart by pressing the `backspace` key, and toggle between AP and FC
 ## Installation
 
 - Install [MelonLoader v.0.6.1](https://github.com/LavaGang/MelonLoader) into Muse Dash.
-- Download the latest release and drop the file into your `mods` folder.
+- Download the [latest release](https://github.com/Miriitode/AutoRestart/releases) and drop the file into your `mods` folder.
 
 ## Configuration
 
