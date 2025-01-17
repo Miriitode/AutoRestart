@@ -16,7 +16,7 @@ namespace AutoRestart
         public override void OnInitializeMelon()
         {
             _category = MelonPreferences.CreateCategory("AutoRestart");
-            _autoRestart = _category.CreateEntry("Enable AutoRestart", true);
+            _autoRestart = _category.CreateEntry("Enable AutoRestart", true, "Enables or disables autorestart");
             _toggleKeybind = _category.CreateEntry("Toggle Enable Key", KeyCode.Backspace, "Key to use to toggle AutoRestart");
             _restartMode = _category.CreateEntry("Restart Mode", "FC", "AutoRestart Mode. Valid values are \"AP\", \"FC\".");
             _modeKeybind = _category.CreateEntry("Toggle Mode Key", KeyCode.Delete, "Key to use to toggle between restart modes");
