@@ -85,11 +85,11 @@ namespace AutoRestart
             {
                 if(_restartMode.Value == "FC")
                 {
-                    ShowText.ShowInfo("AP lost, Try Again...");
+                    ShowText.ShowInfo("FC lost, Try Again...");
                 }
                 else if (_restartMode.Value == "AP")
                 {
-                    ShowText.ShowInfo("FC lost, Try Again...");
+                    ShowText.ShowInfo("AP lost, Try Again...");
                 }
             }
 
